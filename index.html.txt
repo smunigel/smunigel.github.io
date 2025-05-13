@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Saanvi Munigela - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <!-- Navigation -->
     <nav class="navbar">
-        <div class="logo">Your Name</div>
+        <div class="logo">SM</div>
         <ul class="nav-links">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
@@ -27,8 +27,8 @@
     <!-- Home Section -->
     <section id="home" class="hero">
         <div class="hero-content">
-            <h1>Hi, I'm <span class="highlight">Your Name</span></h1>
-            <p class="subtitle">Your Professional Title</p>
+            <h1>Saanvi Munigela</span></h1>
+            <p class="subtitle">Computer Science Student at GMU | Founder @InternConnect</p>
             <div class="cta-buttons">
                 <a href="#projects" class="btn primary">View My Work</a>
                 <a href="#contact" class="btn secondary">Contact Me</a>
@@ -45,19 +45,19 @@
                     <img src="images/your-photo.jpg" alt="Your Name">
                 </div>
                 <div class="about-text">
-                    <p>Your bio goes here. Write a compelling introduction about yourself, your background, and what you do.</p>
-                    <p>Second paragraph with more details about your experience, skills, and what you're passionate about.</p>
+                    <p>Passionate Computer Science undergraduate at George Mason University, set to graduate in 2026. With a strong foundation in programming languages Java, Python, and C, and expertise in data structures, algorithms, and AI alignment, I’m dedicated to leveraging technology to meet human needs. As founder of InternConnect, a thriving organization with a mission to bridge the gap between academia and industry, I am fostering innovation and collaboration. Through this platform, I’ve successfully led several projects, hosted mentorship events, and built partnerships with renowned organizations.</p>
+                    <p>Currently involved in research as a Research Assistant at GMU's MARC, I’m exploring the intersection of Art and Artificial Intelligence. My work, including an AI-powered interactive art installation, has been featured in university articles and presented at symposiums. Beyond academics and research, I am deeply committed to promoting community well-being through Sahaja Yoga Meditation sessions.</p>
                     
                     <h3>My Skills</h3>
                     <div class="skills">
-                        <div class="skill">Skill 1</div>
-                        <div class="skill">Skill 2</div>
-                        <div class="skill">Skill 3</div>
-                        <div class="skill">Skill 4</div>
-                        <div class="skill">Skill 5</div>
+                        <div class="skill">Java</div>
+                        <div class="skill">React</div>
+                        <div class="skill">C</div>
+                        <div class="skill">Python</div>
+                        <div class="skill">HTML/CSS</div>
                     </div>
                     
-                    <a href="your-resume.pdf" class="btn secondary" target="_blank">Download Resume</a>
+                    <a href="file:///C:/Users/munig/Downloads/Saanvi%20Munigela%20Resume%20Current%20(1).pdf" class="btn secondary" target="_blank">Download Resume</a>
                 </div>
             </div>
         </div>
@@ -147,7 +147,7 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+            <p>&copy; 2025 Saanvi Munigela. All Rights Reserved.</p>
         </div>
     </footer>
 

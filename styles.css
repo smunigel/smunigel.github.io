@@ -1,10 +1,10 @@
 /* Base Styles */
 :root {
-    --bg-color: #0a0a0a;
-    --bg-secondary: #111111;
+    --bg-color: #731539;
+    --bg-secondary: #702335;
     --text-primary: #ffffff;
     --text-secondary: #aaaaaa;
-    --accent: #3498db;
+    --accent: #e67e22;
     --border: #333333;
     --transition: all 0.3s ease;
 }
