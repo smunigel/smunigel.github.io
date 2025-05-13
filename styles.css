@@ -72,7 +72,7 @@ a:hover {
 }
 
 .btn:hover {
-    background-color: #2980b9;
+    background-color: #dc7804;
     color: white;
 }
 
@@ -106,7 +106,7 @@ section {
     top: 0;
     width: 100%;
     z-index: 1000;
-    background-color: rgba(10, 10, 10, 0.95);
+    background-color: rgba(139, 8, 61, 0.95);
     backdrop-filter: blur(10px);
     transition: var(--transition);
 }
@@ -216,7 +216,7 @@ section {
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.9rem;
-    border: 1px solid rgba(52, 152, 219, 0.3);
+    border: 1px solid rgba(219, 52, 183, 0.3);
 }
 
 /* Projects Section */
